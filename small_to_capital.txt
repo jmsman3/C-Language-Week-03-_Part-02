@@ -1,0 +1,16 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+void small_to_capital( char lower)
+{
+    
+}
+int main() {
+    char lower;
+    scanf("%c" , &lower);
+ 
+    printf("%c" , lower-32 );
+   small_to_capital (lower);
+    
+    
+    return 0;
+}
